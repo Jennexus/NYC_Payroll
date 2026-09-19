@@ -55,13 +55,3 @@ This project demonstrates practical use of Python and Pandas for:
 * Sorting and ranking
 * Subsetting data for targeted analysis
 * Interpreting payroll data across organizational and geographic categories
-
-## Repository Contents
-
-* `NYC_Payroll.ipynb` — Jupyter Notebook containing the complete analysis
-* `README.md` — Project overview, methodology, and key findings
-
-## Notes
-
-This project was developed from coursework and subsequently refined for inclusion in a professional data analytics portfolio. The portfolio version focuses on a selected set of analyses that demonstrate data preparation, transformation, aggregation, filtering, and exploratory analysis using Python and Pandas.
-
